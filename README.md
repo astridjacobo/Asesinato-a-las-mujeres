@@ -23,9 +23,9 @@ Datos:
 	•	Leyes y medidas de protección existentes (por ejemplo, alerta de género)
 	•	Comparación internacional (cómo está la situación en otros países)
 # Fuentes de informacion:
-https://news.un.org/es/story/2024/11/1534576
-https://oig.cepal.org/es/indicadores/feminicidio
-https://www.unwomen.org/es/articulos/articulo-explicativo/cinco-datos-clave-sobre-el-femicidio
+* https://news.un.org/es/story/2024/11/1534576
+* https://oig.cepal.org/es/indicadores/feminicidio
+* https://www.unwomen.org/es/articulos/articulo-explicativo/cinco-datos-clave-sobre-el-femicidio
 # Objetivo
 Analizar las causas y factores que influyen en el incremento de asesinatos hacia mujeres, con el fin de comprender el impacto social, cultural y legal de este problema y proponer posibles soluciones o medidas de prevención.
 
