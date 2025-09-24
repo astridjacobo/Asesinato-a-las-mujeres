@@ -6,7 +6,7 @@ Feminicidio
 </div>
 
 # ¿Por que los asesinatos son mayormente en mujeres?
-Datos:
+# Datos para el analisis
 1. Datos cuantitativos (números y estadísticas)
 	•	Número de asesinatos de mujeres por año (estadísticas)
 	•	Comparación entre asesinatos de hombres y de mujeres en el mismo periodo
