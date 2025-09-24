@@ -5,3 +5,4 @@ Datos:
 Datos cuantitativos
 Datod cualitativos
 Datos de contexto
+Fuentes de informacion:
