@@ -1,6 +1,7 @@
-# Feminicidio
-# Tema:Feminicidio
-¿Por que los asesinatos son mayormente en mujeres?
+# Asesinato a las mujeres
+# Tema
+Feminicidio
+# ¿Por que los asesinatos son mayormente en mujeres?
 Datos:
 1. Datos cuantitativos (números y estadísticas)
 	•	Número de asesinatos de mujeres por año (estadísticas)
@@ -21,4 +22,4 @@ Datos:
 	•	Definición de feminicidio vs. homicidio común
 	•	Leyes y medidas de protección existentes (por ejemplo, alerta de género)
 	•	Comparación internacional (cómo está la situación en otros países)
-Fuentes de informacion:
+
