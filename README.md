@@ -5,7 +5,7 @@ Feminicidio
   <img src="RecFeminicidio1.jpg" alt="Descripción de la imagen" width="40%">
 </div>
 
-# ¿Por que los asesinatos son mayormente en mujeres?
+# ¿Cuales son las causas de los asesinatos hacia mujeres en mexico?
 # Datos para el analisis
 1. Datos cuantitativos (números y estadísticas)
 * Número de asesinatos de mujeres por año (estadísticas)
